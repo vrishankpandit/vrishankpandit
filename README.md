@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrishankpandit&label=Profile%20views&color=0e75b6&style=flat" alt="vrishankpandit" /> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms And BLENDER**
+- 🌱 I’m currently learning **Data Structures And Algorithms And 3D ANIMATION**
 
 - 📫 How to reach me **vrishankpandit1344@gmail.com**
 
